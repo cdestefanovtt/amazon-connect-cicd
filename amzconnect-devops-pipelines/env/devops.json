@@ -1,9 +1,9 @@
 {
     "env": "devops",
-    "account": "XXXXXXXXXXXZ",
+    "account": "178474252521",
     "region": "us-east-1",
-    "codestarArn": "arn:aws:codestar-connections:us-east-2:XXXXXXXXXXXX:connection/5ab48603-7bae-4a43-a256-XXXXXXXXXXXX",
-    "repo": "forked repo here",
-    "owner": "Your github alias",
-    "email": "your email address"
+    "codestarArn": "arn:aws:codestar-connections:us-east-1:178474252521:connection/d091f459-9f8a-4ca0-a9e2-ff2b8a040a50",
+    "repo": "amazon-connect-cicd",
+    "owner": "cdestefanovtt",
+    "email": "carl.destefano@vt.team"
 }
